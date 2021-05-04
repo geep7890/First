@@ -1,0 +1,7 @@
+pls install the cli tools on your laptops..
+terraform - https://learn.hashicorp.com/tutorials/terraform/install-cli
+packer - https://learn.hashicorp.com/tutorials/packer/getting-started-install
+git and setup git cli to use aws credentials - https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-https-unixes.html
+okta cli (python & pip are mandatory to install okta cli) - https://github.com/nathan-v/aws_okta_keyman
+aws cli - https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
+azure cli - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
