@@ -1,0 +1,71 @@
+---------------------------------------------------------
+take LGE backup
+TM for Nextgen
+Otis CW alerts
+close the past CRs
+MT bank and MDIS02 create CRs
+
+
+----------------------------------------------------
+Fastov@2021
+useradd peter;echo "Fastov@2021" |passwd --stdin peter;cp -rf /etc/sudoers /etc/sudoers_bkp;echo "peter           ALL=(ALL)       NOPASSWD: ALL" >>/etc/sudoers; 
+cp -rf /etc/sudoers /etc/sudoers_bkp
+
+Peter@0125
+
+
+Ubuntu 18
+apt-get -s dist-upgrade |grep "^Inst" |grep -i securi 
+apt-get -s dist-upgrade | grep "^Inst" | grep -i securi | awk -F " " {'print $2'} | xargs apt-get install
+
+
+CHG0165888
+
+
+[‎4/‎14/‎2021 1:54 PM]  Venkata Sai Nitish Chandu, Nitish Chandu:  
+i've workaround to suppress ticket creation 
+in case we can't find a way to mute, we can follow that to suppress ticket creation 
+by removing the snow api subscription from the SNS topic
+[‎4/‎14/‎2021 1:55 PM]  Venkata Sai Nitish Chandu, Nitish Chandu:  
+after patching is completed, we can add the subscription back to SNS topic.. 
+ 
+
+
+203604393936,609632428756,451549546135,720927478933,410502556224,899571186295,764400261212,939585580177,462736566135,182546391236,328757311605,347136826498
+
+
+MDIS02 
+
+A
+i-0178c48828d4ba03b,i-03e54f280bcde9e71
+
+
+B
+i-029929452038cbd0a
+
+
+i-029929452038cbd0a,i-02f20624c1cc44c52
+
+Decipher
+Ap01
+i-02f20624c1cc44c52
+
+
+Decipher
+52.44.38.158
+
+DB02 172.16.106.58
+DB01 172.16.106.10
+
+W 172.20.21.20 4n*dOt6aljv^Mz#
+
+
+Comp
+172.20.41.130   RX3>K{X%A>8ce2U
+172.20.41.135   1GbLlLXJwE35_gI
+
+
+KB5001382 	
+
+RMPP
+i-01337ed49ff5009e2,i-0538d291d4d6b7078,i-05a9fcd549c7321e7,i-0c925815acb0693f8,i-0ddecc48cb108daa2,i-0f3bd64ba1a50bc51
